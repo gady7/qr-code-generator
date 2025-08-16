@@ -1,0 +1,29 @@
+# QR Code Generator Guide
+
+## How to Use
+
+1. **Install Dependencies**
+   - Open a terminal in this project folder.
+   - Run:
+     ```
+     pip install -r requirements.txt
+     ```
+
+2. **Start the Application**
+   - In the terminal, run:
+     ```
+     python app.py
+     ```
+   - The app will start and show a local address (e.g., `http://127.0.0.1:5000/`).
+
+3. **Generate a QR Code**
+   - Open the address in your web browser.
+   - Enter any text or URL in the input box.
+   - Click **Generate QR Code**.
+   - Your QR code will appear below the form. You can scan it with any QR code reader.
+
+## Notes
+
+- The app works locally on your computer.
+- Make sure you have Python installed.
+- For any issues, check that all dependencies are installed and the

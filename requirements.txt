@@ -1,0 +1,4 @@
+Flask
+qrcode[pil]
+Flask-WTF
+Werkzeug
